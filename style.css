@@ -15,7 +15,7 @@ body {
 }
 
 .header {
-  padding: 60px 10%;
+  padding: 80px 10% 60px 10%;
   background-color: #ffcd9e;
   display: flex;
   justify-content: space-between;
